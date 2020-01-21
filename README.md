@@ -4,6 +4,8 @@ This powershell script will import m3u playlists to Plex.
 
 ## Instructions
 
+[Download the script by clicking here](https://github.com/ben516209/ImportMusicPlaylistToPlex/archive/v1.zip) and extract the zip file.
+
 Open the file "ImportMusicPlaylistToPlex.ps1" in a text editor. At the top of the file is a section called "variables".
 
 You will need to set the following variables: $PlexUsername, $PlexPassword to your Plex username and password.
