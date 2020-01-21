@@ -30,8 +30,10 @@ The name of the file will become the name of the playlist in Plex. Using the sam
 
 For example, a file with the name "Into The Wild.m3u" and the content
 
-C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.02. No Ceiling.mp3
-C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.05. Long Nights.mp3
-C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.13. Photographs.mp3
+*C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.02. No Ceiling.mp3*
+
+*C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.05. Long Nights.mp3*
+
+*C:\Music\Eddie Vedder\Music For The Motion Picture Into The Wild\1.13. Photographs.mp3*
 
 will create a Plex playlist called "Into the Wild" which contains the songs "No Ceiling", "Long Nights", and "Photographs".
