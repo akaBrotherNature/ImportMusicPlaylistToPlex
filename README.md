@@ -10,7 +10,7 @@ This powershell script will import m3u playlists to Plex.
 
    You will need to set the following variables: $PlexUsername, $PlexPassword to your Plex username and password.
 
-   The variable $PlexServerLocation is set to 127.0.0.1 by default. This shold work for all local installations of Plex, but can be changed to any IP address or URL
+   The variable $PlexServerLocation is set to 127.0.0.1 by default. This should work for all local installations of Plex, but can be changed to any IP address or URL
 
 3. Now save the file and run it. The easiest way to run a PowerShell script is to right-click on it and select "Run with PowerShell".
 
