@@ -10,7 +10,13 @@ You will need to set the following variables: $PlexUsername, $PlexPassword to yo
 
 The variable $PlexServerLocation is set to 127.0.0.1 by default. This shold work for all local installations of Plex, but can be changed to any IP address or URL
 
-Now save the file and run it. The easiest way to run a PowerShell script is to right-click on it and select "Run with PowerShell"
+Now save the file and run it. The easiest way to run a PowerShell script is to right-click on it and select "Run with PowerShell".
+
+Depending on your PowerShell setup, you may need to allow scripts to run by executing the following command in PowerShell with Adminstrator priveleges.
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+```
 
 **Example configuration:**
 
